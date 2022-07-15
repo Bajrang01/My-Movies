@@ -1,0 +1,10 @@
+.img:hover {
+    width: 252px;
+    height: 448px;
+    transition: 0.5s;
+}
+
+.footer {
+    font-family: cursive;
+    color: greenyellow;
+}
